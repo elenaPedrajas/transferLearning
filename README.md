@@ -10,7 +10,8 @@ Compuesto por:
 
 En este fichero se incluyen las indicaciones para usar el modelo creado.
 
-Para ejecutar el código se ha usado la plataforma de Kaggle. 
+Para ejecutar el código se ha usado la plataforma de Kaggle: https://www.kaggle.com/elenapedrajas/kernel3d4afa0a21
+En dicha explicación de kaggle se encuentran la carpeta con los datos y el modelo.
 Los archivos incluidos se pueden cargar añadiendo en esta plataforma a input la carpeta usos-del-suelo-desde-el-espacio que contiene las imágenes.
 
 En primer lugar, ModeloFinalKaggle.ipynb contiene la lectura del modelo generado, que se puede probar directamente pasándole el conjunto de test.
