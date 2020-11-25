@@ -19,3 +19,6 @@ Como el modeloXception-96-v2.h5 preconfigurado, con el que se puede cargar dicho
 
 El fichero GenerarModelo.ipynb contiene el código necesario para generar el modelo, el fichero modeloXception-96-v2.h5 y el csv entregable en kaggle.
 
+El fichero comprobarAccuracy.py permite comprobar el Accuracy obtenido sobre validación, ya que al realizarse con una competición Kaggle los archivos de test no son supervisados. Se comprueba que el output.csv de las imágenes de validación acierta un 95,91% las imágenes de validacion.csv.
+En cuanto a la competición, se obtuvo un accuracy de 0,96482 en el conjunto público y 0,95698 en el privado.
+
